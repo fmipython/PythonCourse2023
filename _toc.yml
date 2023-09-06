@@ -1,0 +1,28 @@
+format: jb-book
+
+root: README
+
+parts:
+- caption: Лекции
+  chapters:
+  - file: "02 - Variables, types, control flow/02 - Variables, types, control flow"
+  - file: "03 - OOP/03 - OOP"
+  - file: "04 - Functional Programming/04 - Functional Programming"
+  - file: "05 - Data Structures and Oddities/05 - Data Structures and Oddities"
+  - file: "06 - Typing Hints/06 - Typing Hints"
+  - file: "07 - Exceptions Handling/07 - Exceptions Handling"
+  - file: "08 - Files/08 - Files"
+  - file: "09 - Multithreading/09 - Multithreading"
+  - file: "10 - requests/10 - requests"
+  - file: "11 - Git/README"
+  - file: "12 - Modules/13 - Modules"
+  - file: "13 - Clean code/14 - Clean code in Python"
+  - file: "14 - Testing/15 - Testing"
+  - file: "15 - Web programming/16 - Web programming"
+  - file: "16 - Using C code in Python/17 - Using C code in Python"
+  - file: "17 - numpy, pandas, matplotlib/18 - numpy, pandas, matplotlib"
+
+- caption: Проекти
+  chapters:
+  - file: projects
+    title: Указания
