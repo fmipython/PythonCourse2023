@@ -5,6 +5,8 @@ root: README
 parts:
 - caption: Лекции
   chapters:
+  - file: "01 - Intro to Python/install-n-setup"
+  - file: "01 - Intro to Python/notebooks"
   - file: "02 - Variables, types, control flow/02 - Variables, types, control flow"
   - file: "03 - OOP/03 - OOP"
   - file: "04 - Functional Programming/04 - Functional Programming"
