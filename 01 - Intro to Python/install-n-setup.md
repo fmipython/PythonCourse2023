@@ -81,28 +81,11 @@ python3 --version
 python3 --version
 ```
 
-В случай, че видите точна версия - поздравления, вече сте сложили Python 3. Ако пък командата гръмне, то следващите стъпки зависят от това дали имате (или искате да имате) Xcode инсталиран:
-
-#### I. Със Xcode (препоръчително)
-
-1. Инсталирайте [Xcode](https://apps.apple.com/us/app/xcode/id497799835?mt=12) от App Store
-2. Инсталирайте Xcode Command-line Tools: отворете Terminal и изпълнете командата
-    ```bash
-    xcode-select --install
-    ```
-
-Би трябвало да имате вече Python (както и други полезни команди, като `git` и т.н.)
-
-#### II. Без Xcode
-
-1. Инсталирайте [Homebrew](https://brew.sh/):
-    ```bash
-    /bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"
-    ```
-2. Инсталирайте Python 3 през Homebrew:
-    ```bash
-    brew install python3
-    ```
+В случай, че видите точна версия - поздравления, вече сте сложили Python 3. Ако пък командата гръмне, то най-вероятно нямате Xcode Command-line Tools. Те идват вградени с [Xcode](https://apps.apple.com/bg/app/xcode/id497799835?mt=12), но могат и да бъдат инсталирани отделно самостоятелно чрез:
+```bash
+xcode-select --install
+```
+С тях получавате `python`, `git` и доста други developer-ски благинки.
 
 ## Инсталиране и настройка на редактор / IDE
 
