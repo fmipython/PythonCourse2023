@@ -8,3 +8,4 @@
 - [Password manager, 2022/2023](https://github.com/lyudmilstamenov/password_manager)
 - [Poker API, 2022/2023](https://github.com/rosenkolev1/Python-Project)
 - [Minesweeper, 2022/2023](https://github.com/toduko/minesweeper)
+- [Schule, 2022/2023](https://github.com/karinaghristova/Schule)
