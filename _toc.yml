@@ -28,3 +28,5 @@ parts:
   chapters:
   - file: projects
     title: Указания
+  - file: example_projects
+    title: Проекти от минали години
