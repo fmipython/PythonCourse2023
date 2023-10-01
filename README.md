@@ -7,7 +7,7 @@ Github repository към курса "Програмиране с Python" във 
 email: pythoncoursefmi@gmail.com
 
 ## Провеждане
-??? и ???, ??:??, зали ??? и ??? съответно.
+понеделник и четвъртък 18:00-20:00, зали 200 и 604(ФХФ) съответно.
 
 ## Материали
 
@@ -19,24 +19,24 @@ JupyterBook "книжка" с всички теми има тук: https://fmipy
 
 | Тема номер | Тема                                                      | Дата       | Лектор     |
 | ---------- | --------------------------------------------------------- | ---------- | ---------- |
-| 0 | [Въведение към курса](./00%20-%20Course%20intro/) | ??.??.2023 | [Любо](https://github.com/lyubolp)/[Алекс](https://github.com/yalishanda42)/[Кари](https://github.com/karinaghristova) |
-| 1          | [Въведение в Python: какво е Python, настройка на средата, как да пуснем лекциите](./01%20-%20Intro%20to%20Python/) | ??.??.2023 | [Любо](https://github.com/lyubolp)/[Алекс](https://github.com/yalishanda42)/[Кари](https://github.com/karinaghristova) |
-| 2          | [Променливи, разклонения, цикли](./02%20-%20Variables,%20types,%20control%20flow/) | ??.??.2023, ??.??.2023 | [Алекс](https://github.com/yalishanda42) |
-| 3          | [Обектно-ориентирано програмиране в Python](./03%20-%20OOP/)                           | ??.??.2023, ??.??.2023, ??.??.2023 | [Алекс](https://github.com/yalishanda42) |
-| 4          | [Функционално програмиране в Python](./04%20-%20Functional%20Programming/)             | ??.??.2023, ??.??.2023, ??.??.2023 | [Любо](https://github.com/lyubolp)  |
-| 5          | [Представяне на структури от данни и алгоритми над тях](./05%20-%20Data%20Structures%20and%20Oddities/)     | ??.??.2023, ??.??.2023, ??.??.2023 | ???       |
-| 6          | [Типова система на езика](./06%20-%20Typing%20Hints/)                                   | ??.??.2023 | [Алекс](https://github.com/yalishanda42)      |
-| 7          | [Грешки и изключения](./07%20-%20Exceptions%20Handling/) | ??.??.2023 | [Алекс](https://github.com/yalishanda42)      |
-| 8          | [Работа с файлове](./08%20-%20Files/) | ??.??.2023 | [Любо](https://github.com/lyubolp)       |
-| 9          | [Многонишково програмиране](./09%20-%20Multithreading/) | ??.??.2023, ??.??.2023 | [Любо](https://github.com/lyubolp)       |
-| 10         | [Работа със заявки](./10%20-%20requests/) | ??.??.2023 | [Алекс](https://github.com/yalishanda42)      |
-| 11         | [Работа с Git](./11%20-%20Git/)                                              | ??.??.2023 | [Алекс](https://github.com/yalishanda42)      |
-| 12         | [Модули и пакети](./12%20-%20Modules/)                                           | ??.??.2023, ??.??.2023, ??.??.2023 | [Алекс](https://github.com/yalishanda42)      |
-| 13         | [Принципи на качествения код на Python](./13%20-%20Clean%20code/)                     | ??.??.2023, ??.??.2023 | [Любо](https://github.com/lyubolp)       |
-| 14         | [Тестване в Python](./14%20-%20Testing/)                                         | ??.??.2024, ??.??.2024 | [Алекс](https://github.com/yalishanda42)      |
-| 15         | [Уеб програмиране. Flask](./15%20-%20Web%20programming/)                                   | ??.??.2024 | [Любо](https://github.com/lyubolp)       |
-| 16         | [Използване на C код в Python](./16%20-%20Using%20C%20code%20in%20Python/)                              | ??.??.2024 | [Любо](https://github.com/lyubolp)       |
-| 17         | [Външни библиотеки (numpy, pandas, matplotlib)](./17%20-%20numpy,%20pandas,%20matplotlib/)             | ??.??.2024 | [Любо](https://github.com/lyubolp)       |
+| 0 | [Въведение към курса](./00%20-%20Course%20intro/) | 05.10.2023 | [Любо](https://github.com/lyubolp)/[Алекс](https://github.com/yalishanda42)/[Кари](https://github.com/karinaghristova) |
+| 1          | [Въведение в Python: какво е Python, настройка на средата, как да пуснем лекциите](./01%20-%20Intro%20to%20Python/) | 05.10.2023 | [Любо](https://github.com/lyubolp)/[Алекс](https://github.com/yalishanda42)/[Кари](https://github.com/karinaghristova) |
+| 2          | [Променливи, разклонения, цикли](./02%20-%20Variables,%20types,%20control%20flow/) | 09.10.2023, 12.10.2023 | [Алекс](https://github.com/yalishanda42) |
+| 3          | [Обектно-ориентирано програмиране в Python](./03%20-%20OOP/)                           | 16.10.2023, 19.10.2023 | [Алекс](https://github.com/yalishanda42) |
+| 4          | [Функционално програмиране в Python](./04%20-%20Functional%20Programming/)             | 26.10.2023, 30.10.2023 | [Любо](https://github.com/lyubolp)  |
+| 5          | [Представяне на структури от данни и алгоритми над тях](./05%20-%20Data%20Structures%20and%20Oddities/)     | 06.11.2023, 09.11.2023 | TBD       |
+| 6          | [Типова система на езика](./06%20-%20Typing%20Hints/)                                   | 16.11.2023 | [Алекс](https://github.com/yalishanda42)      |
+| 7          | [Грешки и изключения](./07%20-%20Exceptions%20Handling/) | 20.11.2023 | [Алекс](https://github.com/yalishanda42)      |
+| 8          | [Работа с файлове](./08%20-%20Files/) | 23.11.2023 | [Любо](https://github.com/lyubolp)       |
+| 9          | [Многонишково програмиране](./09%20-%20Multithreading/) | 30.11.2023 | [Любо](https://github.com/lyubolp)       |
+| 10         | [Работа със заявки](./10%20-%20requests/) | 04.12.2023 | [Алекс](https://github.com/yalishanda42)      |
+| 11         | [Работа с Git](./11%20-%20Git/)                                              | 04.12.2023 | [Алекс](https://github.com/yalishanda42)      |
+| 12         | [Модули и пакети](./12%20-%20Modules/)                                           | 07.12.2023, 11.12.2023 | [Алекс](https://github.com/yalishanda42)      |
+| 13         | [Принципи на качествения код на Python](./13%20-%20Clean%20code/)                     | 18.12.2023 | [Любо](https://github.com/lyubolp)       |
+| 14         | [Тестване в Python](./14%20-%20Testing/)                                         | 21.12.2023 | [Алекс](https://github.com/yalishanda42)      |
+| 15         | [Уеб програмиране. Flask](./15%20-%20Web%20programming/)                                   | 08.01.2024 | [Любо](https://github.com/lyubolp)       |
+| 16         | [Използване на C код в Python](./16%20-%20Using%20C%20code%20in%20Python/)                              | 11.01.2024 | [Любо](https://github.com/lyubolp)       |
+| 17         | [Външни библиотеки (numpy, pandas, matplotlib)](./17%20-%20numpy,%20pandas,%20matplotlib/)             | 15.01.2024 | [Любо](https://github.com/lyubolp)       |
 
 ## Как да пиша и подкарам Python кода си?
 
