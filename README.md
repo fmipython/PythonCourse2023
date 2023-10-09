@@ -6,6 +6,8 @@ Github repository към курса "Програмиране с Python" във 
 
 email: pythoncoursefmi@gmail.com
 
+[![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/Jc3DXux3Q)
+
 ## Провеждане
 понеделник и четвъртък 18:00-20:00, зали 200 и 604(ФХФ) съответно.
 
