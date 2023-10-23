@@ -24,6 +24,11 @@ parts:
   - file: "16 - Using C code in Python/17 - Using C code in Python"
   - file: "17 - numpy, pandas, matplotlib/18 - numpy, pandas, matplotlib"
 
+- caption: Упражнения
+  chapters:
+  - file: lab01/tasks
+    title: Упражнение 1 (теми 2 & 3)
+
 - caption: Проекти
   chapters:
   - file: projects
