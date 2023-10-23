@@ -7,7 +7,7 @@ execute:
   
 repository:
   url: https://github.com/fmipython/PythonCourse2023
-  branch: main
+  branch: master
 
 html:
   use_repository_button: true
