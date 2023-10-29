@@ -26,8 +26,10 @@ parts:
 
 - caption: Упражнения
   chapters:
-  - file: lab01/tasks
+  - file: labs/lab01
     title: Упражнение 1 (теми 2 & 3)
+  - file: labs/lab02
+    title: Упражнение 2 (тема 4)
 
 - caption: Проекти
   chapters:
