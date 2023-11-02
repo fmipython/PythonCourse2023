@@ -42,10 +42,10 @@ JupyterBook "книжка" с всички теми има тук: https://fmipy
 
 Тази година вместо домашни ще имаме упражнения, на които ще даваме точки за решени задачи. Ще ги провеждаме в следните dedicated дати за упражнения:
 
-| № | Дата       | Теми           | Линк |
-|---|------------|----------------|------|
+| № | Дата       | Теми           | Линк                                                                                |
+|---|------------|----------------|-------------------------------------------------------------------------------------|
 |1  | 23.10.2023 | 2, 3           | [Задачи](https://github.com/fmipython/PythonCourse2023/blob/master/labs/lab01.ipynb)|
-|2  | 2.11.2023  | 4              | [Задачи](https://github.com/fmipython/PythonCourse2023/blob/master/labs/lab02.ipynb)|
+|2  | 2.11.2023  | 4              | [Задачи](https://github.com/fmipython/PythonCourse2023/blob/master/labs/lab02.ipynb),[Примерни решения](https://github.com/fmipython/PythonCourse2023/blob/master/labs/lab02_solutions.ipynb)|
 |3  | 13.11.2023 | 5              | |
 |4  | 27.11.2023 | 6, 7, 8        | |
 |5  | 14.12.2023 | 9, 10, 11, 12  | |
