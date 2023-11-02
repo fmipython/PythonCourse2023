@@ -33,7 +33,7 @@ parts:
 
 - caption: Упражнения (решения)
   chapters:
-  - филе: labs/lab02_solutions
+  - file: labs/lab02_solutions
     title: Упражнение 2
 
 - caption: Проекти
