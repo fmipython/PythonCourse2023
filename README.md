@@ -24,7 +24,7 @@ JupyterBook "книжка" с всички теми има тук: https://fmipy
 | 2          | [Променливи, разклонения, цикли](./02%20-%20Variables,%20types,%20control%20flow/) | 09.10.2023, 12.10.2023 | [Алекс](https://github.com/yalishanda42) |
 | 3          | [Обектно-ориентирано програмиране в Python](./03%20-%20OOP/)                           | 16.10.2023, 19.10.2023 | [Алекс](https://github.com/yalishanda42) |
 | 4          | [Функционално програмиране в Python](./04%20-%20Functional%20Programming/)             | 26.10.2023, 30.10.2023 | [Любо](https://github.com/lyubolp)  |
-| 5          | [Представяне на структури от данни и алгоритми над тях](./05%20-%20Data%20Structures%20and%20Oddities/)     | 06.11.2023, 09.11.2023 | TBD       |
+| 5          | [Представяне на структури от данни и алгоритми над тях](./05%20-%20Data%20Structures%20and%20Oddities/)     | 06.11.2023, 09.11.2023 | [Иван](https://github.com/luchev)       |
 | 6          | [Типова система на езика](./06%20-%20Typing%20Hints/)                                   | 16.11.2023 | [Алекс](https://github.com/yalishanda42)      |
 | 7          | [Грешки и изключения](./07%20-%20Exceptions%20Handling/) | 20.11.2023 | [Алекс](https://github.com/yalishanda42)      |
 | 8          | [Работа с файлове](./08%20-%20Files/) | 23.11.2023 | [Любо](https://github.com/lyubolp)       |

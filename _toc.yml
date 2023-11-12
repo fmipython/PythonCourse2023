@@ -30,6 +30,8 @@ parts:
     title: Упражнение 1 (теми 2 & 3)
   - file: labs/lab02
     title: Упражнение 2 (тема 4)
+  - file: labs/lab03
+    title: Упражнение 3 (тема 5)
 
 - caption: Упражнения (примерни решения)
   chapters:
@@ -37,6 +39,8 @@ parts:
     title: Упражнение 1
   - file: labs/lab02_solutions
     title: Упражнение 2
+  - file: labs/lab03_solutions
+    title: Упражнение 3
 
 - caption: Проекти
   chapters:
