@@ -44,10 +44,10 @@ JupyterBook "книжка" с всички теми има тук: https://fmipy
 
 | № | Дата       | Теми           | Линк                                                                                |
 |---|------------|----------------|-------------------------------------------------------------------------------------|
-|1  | 23.10.2023 | 2, 3           | [Задачи](https://github.com/fmipython/PythonCourse2023/blob/master/labs/lab01.ipynb)|
+|1  | 23.10.2023 | 2, 3           | [Задачи](https://github.com/fmipython/PythonCourse2023/blob/master/labs/lab01.ipynb),[Примерни решения](https://github.com/fmipython/PythonCourse2023/blob/master/labs/lab01_solutions.ipynb)|
 |2  | 2.11.2023  | 4              | [Задачи](https://github.com/fmipython/PythonCourse2023/blob/master/labs/lab02.ipynb),[Примерни решения](https://github.com/fmipython/PythonCourse2023/blob/master/labs/lab02_solutions.ipynb)|
 |3  | 13.11.2023 | 5              | [Задачи](https://github.com/fmipython/PythonCourse2023/blob/master/labs/lab03.md)|
-|4  | 27.11.2023 | 6, 7, 8        | |
+|4  | 27.11.2023 | 6, 7, 8        | [Задачи](https://github.com/fmipython/PythonCourse2023/blob/master/labs/lab04.ipynb)|
 |5  | 14.12.2023 | 9, 10, 11, 12  | |
 |6  | 4.1.2024   | 13, 14         | |
 |7  | 18.1.2024  | 15, 16, 17     | |

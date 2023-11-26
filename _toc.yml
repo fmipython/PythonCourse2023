@@ -32,6 +32,8 @@ parts:
     title: Упражнение 2 (тема 4)
   - file: labs/lab03
     title: Упражнение 3 (тема 5)
+  - file: labs/lab04
+    title: Упражнение 4 (теми 6, 7 & 8)
 
 - caption: Упражнения (примерни решения)
   chapters:
