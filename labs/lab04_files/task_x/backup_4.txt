@@ -1,5 +1,0 @@
-lab04_files task_x sample_files first.txt
-lab04_files task_x sample_files fourth eight.txt
-lab04_files task_x sample_files second.txt
-lab04_files task_x sample_files third fifth seventh.txt
-lab04_files task_x sample_files third sixth
