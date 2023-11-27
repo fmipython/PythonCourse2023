@@ -43,6 +43,8 @@ parts:
     title: Упражнение 2
   - file: labs/lab03_solutions
     title: Упражнение 3
+  - file: labs/lab04_solutions
+    title: Упражнение 4
 
 - caption: Проекти
   chapters:
