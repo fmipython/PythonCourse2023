@@ -33,9 +33,9 @@ JupyterBook "книжка" с всички теми има тук: https://fmipy
 | 11         | [Работа с Git](./11%20-%20Git/)                                              | 04.12.2023 | [Алекс](https://github.com/yalishanda42)      |
 | 12         | [Модули и пакети](./12%20-%20Modules/)                                           | 07.12.2023, 11.12.2023 | [Алекс](https://github.com/yalishanda42)      |
 | 13         | [Принципи на качествения код на Python](./13%20-%20Clean%20code/)                     | 18.12.2023 | [Любо](https://github.com/lyubolp)       |
-| 14         | [Тестване в Python](./14%20-%20Testing/)                                         | 21.12.2023 | [Алекс](https://github.com/yalishanda42)      |
-| 15         | [Уеб програмиране. Flask](./15%20-%20Web%20programming/)                                   | 08.01.2024 | [Любо](https://github.com/lyubolp)       |
-| 16         | [Използване на C код в Python](./16%20-%20Using%20C%20code%20in%20Python/)                              | 11.01.2024 | [Любо](https://github.com/lyubolp)       |
+| 14         | [Тестване в Python](./14%20-%20Testing/)                                         | 04.01.2024 | [Алекс](https://github.com/yalishanda42)      |
+| 15         | [Уеб програмиране. Flask](./15%20-%20Web%20programming/)                                   | 11.01.2024 | [Любо](https://github.com/lyubolp)       |
+| 16         | [Използване на C код в Python](./16%20-%20Using%20C%20code%20in%20Python/)                              | 15.01.2024 | [Любо](https://github.com/lyubolp)       |
 | 17         | [Външни библиотеки (numpy, pandas, matplotlib)](./17%20-%20numpy,%20pandas,%20matplotlib/)             | 15.01.2024 | [Любо](https://github.com/lyubolp)       |
 
 ###  Упражнения
@@ -48,8 +48,8 @@ JupyterBook "книжка" с всички теми има тук: https://fmipy
 |2  | 2.11.2023  | 4              | [Задачи](https://github.com/fmipython/PythonCourse2023/blob/master/labs/lab02.ipynb),[Примерни решения](https://github.com/fmipython/PythonCourse2023/blob/master/labs/lab02_solutions.ipynb)|
 |3  | 13.11.2023 | 5              | [Задачи](https://github.com/fmipython/PythonCourse2023/blob/master/labs/lab03.md),[Примерни решения](https://github.com/fmipython/PythonCourse2023/blob/master/labs/lab03_solutions.ipynb)|
 |4  | 27.11.2023 | 6, 7, 8        | [Задачи](https://github.com/fmipython/PythonCourse2023/blob/master/labs/lab04.ipynb),[Примерни решения](https://github.com/fmipython/PythonCourse2023/blob/master/labs/lab04_solutions.ipynb)|
-|5  | 14.12.2023 | 9, 10, 11, 12  | |
-|6  | 4.1.2024   | 13, 14         | |
+|5  | 14.12.2023 | 9, 10, 11, 12  | [Задачи](https://github.com/fmipython/PythonCourse2023/tree/master/labs/lab05), [Примерни решения]()|
+|6  | 8.1.2024   | 13, 14         | |
 |7  | 18.1.2024  | 15, 16, 17     | |
 
 Освен на тези дати, възможно е да се решават задачи и ако остане време след някои лекции.
