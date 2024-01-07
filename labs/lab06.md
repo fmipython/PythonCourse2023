@@ -8,8 +8,22 @@
 - Рефакториране и качествен код (4.5т.)
 - Тестове (1.5т)
 
+## Структура:
+Структурата на решението ви се очаква да е следната
+
+```bash
+labs
+├── lab06.md
+├── lab06.py
+├── lab06.pylintrc
+└── lab06_solution
+    ├── src
+    └── tst
+```
+
+
 ## Pylint:
 За изпълнение на pylint, използвайте дадения pylintrc файл (файл, съдържащ проверките на които трябва да отговаря кода): `pylint src --rcfile ../lab06.pylintrc`
 
 ## Coverage:
-За проверка на code coverage, трябва да инсталирате библиотеката `coverage`. Използвайте следната команда `TBD`
+За проверка на code coverage, трябва да инсталирате библиотеката `coverage`. Използвайте следните команди `coverage run --source="src" -m unittest discover -s "tst"` и `coverage report -m`
