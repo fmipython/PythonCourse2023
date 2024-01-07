@@ -49,7 +49,7 @@ JupyterBook "книжка" с всички теми има тук: https://fmipy
 |3  | 13.11.2023 | 5              | [Задачи](https://github.com/fmipython/PythonCourse2023/blob/master/labs/lab03.md),[Примерни решения](https://github.com/fmipython/PythonCourse2023/blob/master/labs/lab03_solutions.ipynb)|
 |4  | 27.11.2023 | 6, 7, 8        | [Задачи](https://github.com/fmipython/PythonCourse2023/blob/master/labs/lab04.ipynb),[Примерни решения](https://github.com/fmipython/PythonCourse2023/blob/master/labs/lab04_solutions.ipynb)|
 |5  | 14.12.2023 | 9, 10, 11, 12  | [Задачи](https://github.com/fmipython/PythonCourse2023/tree/master/labs/lab05), [Примерни решения]()|
-|6  | 8.1.2024   | 13, 14         | |
+|6  | 8.1.2024   | 13, 14         | [Задачи](https://github.com/fmipython/PythonCourse2023/tree/master/labs/lab06.md)|
 |7  | 18.1.2024  | 15, 16, 17     | |
 
 Освен на тези дати, възможно е да се решават задачи и ако остане време след някои лекции.
